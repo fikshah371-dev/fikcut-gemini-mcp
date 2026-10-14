@@ -1,0 +1,19 @@
+{
+  "name": "fikcut-gemini-mcp",
+  "version": "2.0.0",
+  "description": "FikCut Pro Video Editor - Official Google Gemini Remote MCP Connector",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "gemini",
+    "mcp",
+    "model-context-protocol",
+    "video-editor",
+    "connected-apps",
+    "fikcut"
+  ],
+  "author": "FikCut Engineering Team",
+  "license": "MIT"
+}
